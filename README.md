@@ -6,6 +6,7 @@ I recently worked on an interactive data visualization project analyzing Airline
 Here are some of the key insights derived from the data:
 
 Passenger Profile: The average passenger age is 39, with an average flight distance of approximately 1,190 miles. The average seat comfort rating stands at 3.4 out of 5.
+
 Class Matters: Unsurprisingly, Business Class consistently outperforms Economy and Economy Plus in service ratings, particularly in seat comfort, cleanliness, and food & beverage.
 
 Loyalty vs. Digital Experience: Returning customers reported significantly higher satisfaction with online experiences (like online boarding and ease of booking) compared to first-time flyers.
